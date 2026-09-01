@@ -8,6 +8,9 @@ class authService{
   public static boolean isSecure(){
     //is secure check
   }
+   public static Token createTokenObject(){
+    //create token object
+  } 
   public static void main(String[] args){
     //auth service code
 
