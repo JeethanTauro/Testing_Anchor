@@ -10,7 +10,10 @@ class authService{
   }
   public static void main(String[] args){
     //auth service code
+    Token token = new Token();
+    token.add(generateTokenString())
   }
+  
   
 
 }
