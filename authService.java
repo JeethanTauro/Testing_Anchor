@@ -11,6 +11,9 @@ class authService{
    public static Token createTokenObject(){
     //create token object
   } 
+  public static Token createTokenObjectAndSetItToString(){
+    //create token object for string
+  } 
   public static void main(String[] args){
     //auth service code
 
